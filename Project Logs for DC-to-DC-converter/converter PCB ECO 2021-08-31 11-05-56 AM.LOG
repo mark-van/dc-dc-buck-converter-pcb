@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=Input Capacitors NewDesignator=Input Capacitor4
+Added Component: Designator=Buck(NDZ0007A)
+Add component (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-220-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM2677&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Switcher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO-220, Molded, .400 x .590 x .180in Body, 7 Lead, .050in Pitch, Staggered"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "NDZ0007A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYTTE#*LM2677T*-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBUCK_1 Pin=Buck-1
+Added Pin To Net: NetName=NetBUCK_2 Pin=Buck-2
+Added Pin To Net: NetName=NetBUCK_3 Pin=Buck-3
+Added Pin To Net: NetName=NetBUCK_4 Pin=Buck-4
+Added Pin To Net: NetName=NetBUCK_6 Pin=Buck-6
+Added Pin To Net: NetName=NetBUCK_7 Pin=Buck-7
