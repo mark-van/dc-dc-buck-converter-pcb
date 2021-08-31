@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetOutput capacitor_2 Pin=Output-1
+Removed Pin From Net: NetName=NetCeramic input capacitor_2 Pin=Output-2
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=Output-1
+Added Pin To Net: NetName=NetOutput capacitor_2 Pin=Output-2

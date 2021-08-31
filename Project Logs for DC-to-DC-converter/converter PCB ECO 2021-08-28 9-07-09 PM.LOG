@@ -1,0 +1,36 @@
+Added Pin To Net: NetName=NetCboost capacitor_1 Pin=Cboost capacitor-1
+Added Pin To Net: NetName=NetCboost capacitor_2 Pin=Cboost capacitor-2
+Added Pin To Net: NetName=NetCeramic input capacitor_1 Pin=Ceramic input capacitor-1
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=Ceramic input capacitor-2
+Added Pin To Net: NetName=NetCboost capacitor_2 Pin=D SCHOTTKY-1
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=D SCHOTTKY-2
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=Input-1
+Added Pin To Net: NetName=NetCeramic input capacitor_1 Pin=Input-2
+Added Pin To Net: NetName=NetCeramic input capacitor_1 Pin=Input Capacitor1-1
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=Input Capacitor1-2
+Added Pin To Net: NetName=NetCeramic input capacitor_1 Pin=Input Capacitor2-1
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=Input Capacitor2-2
+Added Pin To Net: NetName=NetCeramic input capacitor_1 Pin=Input Capacitor3-1
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=Input Capacitor3-2
+Added Pin To Net: NetName=NetCeramic input capacitor_1 Pin=Input Capacitor4-1
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=Input Capacitor4-2
+Added Pin To Net: NetName=NetOutput_1 Pin=Output-1
+Added Pin To Net: NetName=NetOutput capacitor_2 Pin=Output-2
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=Output capacitor-1
+Added Pin To Net: NetName=NetOutput capacitor_2 Pin=Output capacitor-2
+Added Pin To Net: NetName=NetOutput_1 Pin=Pulse Inductor-1
+Added Pin To Net: NetName=NetCboost capacitor_2 Pin=Pulse Inductor-2
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=R1k-1
+Added Pin To Net: NetName=NetR1k_2 Pin=R1k-2
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=R1kFB-1
+Added Pin To Net: NetName=NetR1kFB_2 Pin=R1kFB-2
+Added Pin To Net: NetName=NetR1kFB_2 Pin=R3.16k-1
+Added Pin To Net: NetName=NetOutput_1 Pin=R3.16k-2
+Added Pin To Net: NetName=NetR1k_2 Pin=R11.5k-1
+Added Pin To Net: NetName=NetCeramic input capacitor_1 Pin=R11.5k-2
+Added Pin To Net: NetName=NetCboost capacitor_2 Pin=REG BUCK-1
+Added Pin To Net: NetName=NetCeramic input capacitor_1 Pin=REG BUCK-2
+Added Pin To Net: NetName=NetCboost capacitor_1 Pin=REG BUCK-3
+Added Pin To Net: NetName=NetCeramic input capacitor_2 Pin=REG BUCK-4
+Added Pin To Net: NetName=NetR1kFB_2 Pin=REG BUCK-6
+Added Pin To Net: NetName=NetR1k_2 Pin=REG BUCK-7
