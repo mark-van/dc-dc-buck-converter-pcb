@@ -1,0 +1,42 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:31:14 PM On 2021-08-31
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [no components fitted] of PCB Document [converter.PcbDoc]
+   Generated File[converter.GTO]
+   Generated File[converter.GTP]
+   Generated File[converter.GTS]
+   Generated File[converter.GTL]
+   Generated File[converter.GBL]
+   Generated File[converter.GBS]
+   Generated File[converter.GBP]
+   Generated File[converter.GBO]
+   Generated File[converter.GM1]
+   Generated File[converter.GM2]
+   Generated File[converter.GM3]
+   Generated File[converter.GM4]
+   Generated File[converter.GM5]
+   Generated File[converter.GM6]
+   Generated File[converter.GM7]
+   Generated File[converter.GM8]
+   Generated File[converter.GM9]
+   Generated File[converter.GM10]
+   Generated File[converter.GM11]
+   Generated File[converter.GM12]
+   Generated File[converter.GM13]
+   Generated File[converter.GM15]
+   Generated File[converter.GCT1]
+   Generated File[converter.GCB1]
+   Generated File[converter.GPT]
+   Generated File[converter.GPB]
+   Generated File[converter.RUL]
+   Generated File[converter.EXTREP]
+   Generated File[converter.REP]
+
+
+Files Generated   : 29
+Documents Printed : 0
+
+Finished Output Generation At 10:31:15 PM On 2021-08-31

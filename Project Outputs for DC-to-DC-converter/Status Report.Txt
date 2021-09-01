@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DC-to-DC-converter.PrjPcb]
+   Generated File[converter.TXT]
+   Generated File[converter.LDP]
+   Generated File[converter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:04:21 AM On 2021-09-01

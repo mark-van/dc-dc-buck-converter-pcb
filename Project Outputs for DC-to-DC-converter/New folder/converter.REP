@@ -1,0 +1,423 @@
+*************************************************************
+FileName = converter.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 13
+      File : converter.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : converter.GM12
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : converter.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D40
+    D41
+    D42
+    D43
+    D44
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : converter.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : converter.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : converter.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : converter.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : converter.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : converter.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : converter.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : converter.GM3
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : converter.GM4
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : converter.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : converter.GM6
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : converter.GM7
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : converter.GM8
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : converter.GM9
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : converter.GM10
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : converter.GM11
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder (Board Layer Stack)
+      File : converter.GCB1
+
+    Adding Layer      : Bottom Solder (Board Layer Stack)
+
+
+Used DCodes :
+    D23
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D47
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : converter.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D34
+    D35
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : converter.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : converter.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : converter.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : converter.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Solder (Board Layer Stack)
+      File : converter.GCT1
+
+    Adding Layer      : Top Solder (Board Layer Stack)
+
+
+Used DCodes :
+    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D50
+*************************************************************
+
