@@ -10,4 +10,4 @@ Created for UBC Thunderbikes for use in their electric motorcycle build. Will st
 
 For a 3D view please open this [3DPDF](https://github.com/mark-van/dc-dc-buck-converter-pcb/blob/main/Project%20Outputs%20for%20DC-to-DC-converter/PDF3D/no%20components%20fitted.PDF) with appropriate software (like Adobe Reader)
 
-Also completed a PCB using using the TO-263 package which is more compact but will likely suffer a greater temperature rise: [3DPDF](https://github.com/mark-van/dc-dc-buck-converter-pcb/blob/main/Project%20Outputs%20for%20DC-to-DC-converter/PDF3D/no%20components%20fitted%20TO-263.PDF)
+Also completed a PCB using the more compact TO-263 package, but this will likely suffer from a more severe temperature rise: [3DPDF](https://github.com/mark-van/dc-dc-buck-converter-pcb/blob/main/Project%20Outputs%20for%20DC-to-DC-converter/PDF3D/no%20components%20fitted%20TO-263.PDF)
