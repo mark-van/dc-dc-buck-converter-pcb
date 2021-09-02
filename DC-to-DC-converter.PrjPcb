@@ -132,10 +132,6 @@ Variation15=Designator=R3.16k|UniqueId=\RPTOMBAG|Kind=1|AlternatePart=
 Variation16=Designator=R11.5k|UniqueId=\TWNOCJBP|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for DC-to-DC-converter\Design Rule Check - converter.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
